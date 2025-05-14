@@ -1,0 +1,19 @@
+# Ignore Jupyter temporary files  
+.ipynb_checkpoints/  
+
+# Ignore virtual environments  
+venv/  
+env/  
+
+# Ignore system files  
+.DS_Store  
+Thumbs.db  
+
+# Ignore binary/generated files  
+*.pyc  
+__pycache__/  
+*.so  
+*.egg-info/  
+dist/  
+build/  
+
